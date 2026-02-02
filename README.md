@@ -11,7 +11,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Telegram](https://img.shields.io/badge/-Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
-> Made my first million at 17. I don't just talk or code—I ship and execute. From campus startups to ₦10m+ MRR platforms, I build products that people actually pay for. Currently at Covenant University turning ideas into revenue.
+> Made my first million at 17. I don't just talk or code, I ship and execute. From campus startups to ₦10m+ MRR platforms, I build products that people actually pay for. Currently at Covenant University turning ideas into revenue.
 
 ## Featured Projects
 
