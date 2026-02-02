@@ -13,6 +13,8 @@
 
 > Made my first million at 17. I don't just talk or code, I ship and execute. From campus startups to ₦10m+ MRR platforms, I build products that people actually pay for. Currently at Covenant University turning ideas into revenue.
 
+[![Follow on GitHub](https://img.shields.io/github/followers/TaiwoOnileowo?label=Follow&style=social)](https://github.com/TaiwoOnileowo)
+
 ## Featured Projects
 
 💰 **[SyncGram](https://github.com/TaiwoOnileowo/paypips)** - Telegram subscription platform · ₦10m+ monthly profit · 80+ clients including Nigeria's top forex traders · Exited 2025
