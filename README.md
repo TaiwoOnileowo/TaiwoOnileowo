@@ -17,7 +17,7 @@
 
 💰 **[SyncGram](https://github.com/TaiwoOnileowo/paypips)** - Telegram subscription platform · ₦10m+ monthly profit · 80+ clients including Nigeria's top forex traders · Exited 2025
 
-🍜 **[Prime Noodles](https://github.com/TaiwoOnileowo/bot_prime-noodles)** - Campus food delivery via Telegram bot · ₦1m annual revenue · 500+ active customers · Scaling campus-wide in 2026
+🍜 **[Prime Noodles](https://github.com/TaiwoOnileowo/bot_prime-noodles)** - Campus food delivery via Telegram bot · ₦1m annual revenue · 500+ active customers
 
 🖨️ **[Printeaze](https://github.com/TaiwoOnileowo/printeaze-web)** - Campus printing simplified · 2,500 users · ₦120k MRR · 12 vendor partners · 70% reduction in campus print queues
 
