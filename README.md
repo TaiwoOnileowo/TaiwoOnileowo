@@ -81,11 +81,10 @@
 <summary>More About Me</summary>
 
 - 📍 Based in Nigeria
-- 🎓 First Class Computer Science student (4.65 CGPA)
 - 💡 Started building profitable products in year 2 of university
-- 🎯 Strong in product thinking, execution, and marketing
+- 🎯 Strong in product thinking, growth engineering, execution, and marketing
 - ⚡ Passionate about solving real problems with technology
-- ✝️ Strong Christian
-- 🔥 Different ~ Abnormal ~ Extraordinary ~ DAX
+- ✝️ Passionate Christian
+- 🔥 Different ~ Ab(ove)normal ~ Extraordinary ~ DAX
 
 </details>
