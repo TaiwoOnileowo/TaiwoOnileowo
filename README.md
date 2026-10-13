@@ -1,6 +1,6 @@
 # Hey, I'm Taiwo 👋
 
-💼 **Technical Founder & Software Engineer** | 🚀 **Building profitable products from zero**
+💼 **Technical Founder & Software Engineer** | 🚀 **Building profitable products from zero** 
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -50,11 +50,11 @@
 
 ## Recent Wins
 
-🏆 Scaled SyncGram to ₦10m+ monthly profit with 80+ clients before successful exit  
-🍜 Founded Prime Noodles, scaled to ₦1m annual revenue with 500+ customers  
-🖨️ Launched Printeaze: 0 → 2,500 users, ₦120k MRR in 6 months  
-🥉 5th place at Squad Hackathon 2025 (100+ teams)  
-📱 Shipped Shopsical mobile app gaining traction  
+🏆 Scaled SyncGram to ₦10m+ monthly profit with 80+ clients before successful exit
+🍜 Founded Prime Noodles, scaled to ₦1m annual revenue with 500+ customers
+🖨️ Launched Printeaze: 0 → 2,500 users, ₦120k MRR in 6 months
+🥉 5th place at Squad Hackathon 2025 (100+ teams)
+📱 Shipped Shopsical mobile app gaining traction
 
 ## Track Record
 
